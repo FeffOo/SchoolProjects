@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "system_error": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.errorSquiggles": "enabled"
+}
